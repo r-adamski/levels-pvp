@@ -1,0 +1,9 @@
+name: LevelsPvP
+main: me.panda.levelspvp.main
+author: Panda
+version: 2.0
+commands:
+    lpvp:
+        description: LevelsPvP commands
+    opusc:
+        description: LevelsPvP commands

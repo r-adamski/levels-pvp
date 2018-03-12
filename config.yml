@@ -1,0 +1,50 @@
+# dane do laczenia sie z baza danych
+MySQL:
+# adres bazy danych zazwyczaj localhost
+    Host:
+# uzytkownik - nick 
+    User:
+# haslo 
+    Password:
+# nazwa bazy danych np. guildPlug
+    Database:
+# zazwyczaj 3306
+    Port:
+
+spawn:
+    world:
+    x:
+    y:
+    z:
+
+#ilosc graczy na arenie
+ilosc: 24
+
+#ilosc exp ktory wylatuje z 1 stone
+exp: 2
+
+#wiadomosci na barapi
+#czas w milisekundach
+time: 10000 
+#lista wiadomosci w lobby
+lista:
+    - Wiadomosc 1
+    - Wiadomosc 2
+    - Wiadomosc 3
+
+#if true wiadomosci znikaja po podanym nizej czasie
+#if false wiadomosci sa wyswietlane przez caly czas trwania poziomu
+czasowe: true
+#czas wyswietlania wiadomosci na poziomach if czasowe == true
+timeshow: 15000
+
+#wiadomosc na poziomie 1
+poziom1: To jest poziom 1
+#wiadomosc na poziomie 2
+poziom2: To jest poziom 2
+#wiadomosc na poziomie 3
+poziom3: To jest poziom 3
+#wiadomosc na poziomie 4
+poziom4: To jest poziom 4
+#wiadomosc na poziomie 5
+poziom5: To jest poziom 5
